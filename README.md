@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alerechi Ordu</h1>
-<h3 align="center">I'm a backend developer specializing in Python and Django with a focus on building scalable web applications. With expertise in designing RESTful APIs, managing databases, and integrating third-party services, I strive to deliver high-quality solutions. I'm experienced in cloud technologies and containerization. Constantly learning and staying up to date with the latest trends, I thrive in collaborative environments and enjoy working on exciting projects.</h3>
+<h3 align="center">I'm a software engineer specializing in backend using Django Rest-framework and ASP.NET WEB API with a focus on building scalable web applications. With expertise in designing RESTful APIs, managing databases, and integrating third-party services, I strive to deliver high-quality solutions. I'm experienced in cloud technologies and containerization. Constantly learning and staying up to date with the latest trends, I thrive in collaborative environments and enjoy working on exciting projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rechidesigns&label=Profile%20views&color=0e75b6&style=flat" alt="rechidesigns" /> </p>
 
