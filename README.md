@@ -8,7 +8,10 @@
 
 - 👯 I’m looking to collaborate on **Fintech Projects**
 
-- 📫 How to reach me **alerechiordu@gmail.com**
+- I write.....
+[Visit my profile on dev.to](https://dev.to/rechidesigns)
+
+- 📫 [Reach Me](alerechiordu@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
