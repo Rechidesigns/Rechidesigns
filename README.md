@@ -8,7 +8,7 @@
 
 <div align="center">
 
-- 👯 I’m looking to collaborate on **Fintech Projects**
+- 👯 I’m looking to collaborate on **Fintech and Web3 Projects**
 
 - I write.....
 [Visit my profile on dev.to](https://dev.to/rechidesigns)
