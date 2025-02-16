@@ -19,10 +19,10 @@
 <div align="center">
 
 <p align="center">
-<a href="https://twitter.com/kvng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kvn" height="30" width="40" /></a>
-<a href="https://linkedin.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axxx" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kvn" height="30" width="40" /></a>
+<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axxx" height="30" width="40" /></a>
 <a href="https://instagram.com/rechidesigns_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rechidesigns_" height="30" width="40" /></a>
-<a href="https://www.behance.ne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alerechiordu" height="30" width="40" /></a>
+<a href="https://www.behance.net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alerechiordu" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/ad3KsSMA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ad3KsSMA" height="30" width="40" /></a>
 </p>
 
